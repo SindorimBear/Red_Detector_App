@@ -1,5 +1,4 @@
 
-<markdown>
 # Red_Detector_App
 
 This project is designed to provide a GUI application that uses a webcam to detect and highlight red regions in real-time. The implementation utilizes OpenCV for image processing and PyQt5 for the graphical user interface.
